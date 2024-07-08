@@ -27,17 +27,35 @@ This emulator is part of the [ESPectrum project](https://github.com/EremusOne/ES
 
 You can flash the binaries directly to the board. Check the [releases section](https://github.com/EremusOne/CPCESP_alpha/releases)
 
-## Compiling and installing
+## Compiling
 
 The source code of the emulator will be published soon so you'll be able to compile it in the same way as ESPectrum project. Stay tuned!
 
-#### Prepare micro SD Card
+## How to prepare micro SD Card
 
 The SD card should be formatted in FAT16 / FAT32.
 
 Just that: then put your .sna and .dsk whenever you like and create and use folders as you need.
 
 There's also no need to sort files using external utilities: the emulator creates and updates indexes to sort files in folders by itself.
+
+## Video modes supported
+
+Default video mode is VGA 384x288 60hz. Emulator will start in this mode.
+
+To change video mode press repeatedly this combination of keys just after powering on or after cold reset (F12):
+
+1 + Q -> 384x288 VGA 60hz
+2 + Q -> 400x300 VGA 60hz
+3 + Q -> 720x288 VGA 60hz (real mode 2)
+1 + W -> 384x288 VGA 50hz
+2 + W -> 400x300 VGA50hz
+3 + W -> 720x288 VGA 50 hz (real mode 2)
+1 + E -> 384x288 CRT 15khz 50hz
+2 + E -> 384x288 CRT 15khz 50hz
+3 + E -> 768x288 CRT 15khz 50hz (real mode 2)
+
+You can check current video mode at lower line of help or hardware info dialogs.
 
 ## PS/2 Keyboard functions
 
