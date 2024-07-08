@@ -94,7 +94,10 @@ CPCESP is open source sofware licensed under GPL v3, you can use modify and shar
 ## Thanks to
 
 - [Ackerman](https://github.com/rpsubc8) for his [CPC emulator port](https://github.com/rpsubc8/ESP32TinyCPC) to ESP32.
+- [elfuska](https://github.com/elfuska) for his improvements to Ackerman's TyniCPC.
 - [Juan Carlos González Amestoy](https://www.retrovirtualmachine.org) for his excellent emulator and his friendly help.
+- [Cesar Nicolás González](http://cngsoft.no-ip.org/cpcec.htm) for his excellent emulator and his friendly help.
+- [Francisco Gallego Román](https://github.com/gallegux) for his friendly help.
 - Z80 Emulation derived from [z80cpp](https://github.com/jsanchezv/z80cpp), authored by José Luis Sánchez.
 - VGA Driver from [ESP32Lib by BitLuni](https://github.com/bitluni/ESP32Lib).
 - AY-3-8912 emulation from [libayemu by Alexander Sashnov](https://asashnov.github.io/libayemu.html) and some adjustment from Ramón Martínez ["Rampa"](https://github.com/rampa069).
