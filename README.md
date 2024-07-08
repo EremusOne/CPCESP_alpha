@@ -45,15 +45,15 @@ Default video mode is VGA 384x288 60hz. Emulator will start in this mode.
 
 To change video mode press repeatedly this combination of keys just after powering on or after cold reset (F12):
 
-1 + Q -> 384x288 VGA 60hz
-2 + Q -> 400x300 VGA 60hz
-3 + Q -> 720x288 VGA 60hz (real mode 2)
-1 + W -> 384x288 VGA 50hz
-2 + W -> 400x300 VGA50hz
-3 + W -> 720x288 VGA 50 hz (real mode 2)
-1 + E -> 384x288 CRT 15khz 50hz
-2 + E -> 384x288 CRT 15khz 50hz
-3 + E -> 768x288 CRT 15khz 50hz (real mode 2)
+- 1 + Q -> 384x288 VGA 60hz
+- 2 + Q -> 400x300 VGA 60hz
+- 3 + Q -> 720x288 VGA 60hz (real mode 2)
+- 1 + W -> 384x288 VGA 50hz
+- 2 + W -> 400x300 VGA50hz
+- 3 + W -> 720x288 VGA 50 hz (real mode 2)
+- 1 + E -> 384x288 CRT 15khz 50hz
+- 2 + E -> 384x288 CRT 15khz 50hz
+- 3 + E -> 768x288 CRT 15khz 50hz (real mode 2)
 
 You can check current video mode at lower line of help or hardware info dialogs.
 
@@ -102,16 +102,18 @@ CPCESP is open source sofware licensed under GPL v3, you can use modify and shar
 - [Amstrad PLC](https://web.archive.org/web/20190125111043/http://www.amstrad.com/) for kindly giving it's permission for it's copyrighted material to be redistributed (but Amstrad retains it's copyright).
 - [Jean Thomas](https://github.com/jeanthom/ESP32-APLL-cal) for his ESP32 APLL calculator.
 
-## Thanks also to all this writters, hobbist and documenters
+## Thanks also to
 
 - [Retrowiki](http://retrowiki.es/) especially the people at [ESP32 TTGO VGA32](http://retrowiki.es/viewforum.php?f=114) subforum.
 - [RetroReal](https://www.youtube.com/@retroreal) for his kindness and hospitality and his great work.
+- [AUA - Amigos y usuarios de Amstrad](https://auamstrad.es/) en especial a Pablo Forcén y a [Manuel Cuenca](https://www.youtube.com/@manuelcuencammchip).
+- David Crespo [David programa](https://www.youtube.com/@Davidprograma)
 - Rodrigo Méndez [Ron](https://www.twitch.tv/retrocrypta)
 - Armand López [El Viejoven FX](https://www.youtube.com/@ElViejovenFX)
 - Javi Ortiz [El Spectrumero](https://www.youtube.com/@ElSpectrumeroJaviOrtiz) 
 - José Luis Rodríguez [VidaExtraRetro](https://www.twitch.tv/vidaextraretro)
 
-## And all the involved people from the golden age
+## And, of course, thanks to
 
 - [Roland Perry](https://fr.wikipedia.org/wiki/Roland_Perry).
 - [Alan Michael Sugar](https://en.wikipedia.org/wiki/Alan_Sugar).
