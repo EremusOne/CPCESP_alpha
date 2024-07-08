@@ -97,7 +97,7 @@ CPCESP is open source sofware licensed under GPL v3, you can use modify and shar
 - [Juan Carlos González Amestoy](https://www.retrovirtualmachine.org) for his excellent emulator and his friendly help.
 - Z80 Emulation derived from [z80cpp](https://github.com/jsanchezv/z80cpp), authored by José Luis Sánchez.
 - VGA Driver from [ESP32Lib by BitLuni](https://github.com/bitluni/ESP32Lib).
-- AY-3-8912 emulation from [libayemu by Alexander Sashnov](https://asashnov.github.io/libayemu.html).
+- AY-3-8912 emulation from [libayemu by Alexander Sashnov](https://asashnov.github.io/libayemu.html) and some adjustment from Ramón Martínez ["Rampa"](https://github.com/rampa069).
 - PS2 Driver from Fabrizio di Vittorio for his [FabGL library](https://github.com/fdivitto/FabGL).
 - [Amstrad PLC](https://web.archive.org/web/20190125111043/http://www.amstrad.com/) for kindly giving it's permission for it's copyrighted material to be redistributed (but Amstrad retains it's copyright).
 - [Jean Thomas](https://github.com/jeanthom/ESP32-APLL-cal) for his ESP32 APLL calculator.
