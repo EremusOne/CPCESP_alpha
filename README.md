@@ -107,14 +107,14 @@ CPCESP is open source sofware licensed under GPL v3, you can use modify and shar
 
 ## Thanks also to
 
-- [Retrowiki](http://retrowiki.es/) especially the people at [ESP32 TTGO VGA32](http://retrowiki.es/viewforum.php?f=114) subforum.
-- [RetroReal](https://www.youtube.com/@retroreal) for his kindness and hospitality and his great work.
-- [AUA - Amigos y usuarios de Amstrad](https://auamstrad.es/) en especial a Pablo Forcén y a [Manuel Cuenca](https://www.youtube.com/@manuelcuencammchip).
 - David Crespo [David programa](https://www.youtube.com/@Davidprograma)
+- [AUA - Amigos y usuarios de Amstrad](https://auamstrad.es/) en especial a Pablo Forcén y a [Manuel Cuenca](https://www.youtube.com/@manuelcuencammchip).
 - Rodrigo Méndez [Ron](https://www.twitch.tv/retrocrypta)
 - Armand López [El Viejoven FX](https://www.youtube.com/@ElViejovenFX)
 - Javi Ortiz [El Spectrumero](https://www.youtube.com/@ElSpectrumeroJaviOrtiz) 
 - José Luis Rodríguez [VidaExtraRetro](https://www.twitch.tv/vidaextraretro)
+- [Retrowiki](http://retrowiki.es/) especially the people at [ESP32 TTGO VGA32](http://retrowiki.es/viewforum.php?f=114) subforum.
+- [RetroReal](https://www.youtube.com/@retroreal) for his kindness and hospitality and his great work.
 
 ## And, of course, thanks to
 
