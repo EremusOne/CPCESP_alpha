@@ -94,7 +94,7 @@ CPCESP is open source sofware licensed under GPL v3, you can use modify and shar
 ## Thanks to
 
 - [Ackerman](https://github.com/rpsubc8) for his [CPC emulator port](https://github.com/rpsubc8/ESP32TinyCPC) to ESP32.
-- [elfuska](https://github.com/elfuska) for his improvements to Ackerman's TyniCPC.
+- [elfuska](https://github.com/elfuska) for his improvements to Ackerman's TinyCPC.
 - [Juan Carlos González Amestoy](https://www.retrovirtualmachine.org) for his excellent emulator and his friendly help.
 - [Cesar Nicolás González](http://cngsoft.no-ip.org/cpcec.htm) for his excellent emulator and his friendly help.
 - [Francisco Gallego Román](https://github.com/gallegux) for his friendly help.
