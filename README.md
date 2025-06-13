@@ -15,7 +15,8 @@ This emulator is part of the [ESPectrum project](https://github.com/EremusOne/ES
 - 6 bpp VGA output (384x288, 400x300 and 720x288 resolutions @ 60 and 50hz modes) and CRT 15khz output ( 384x288 and 768x288 @ 50hz modes via VGA to RGB Scart cable).
 - AY-3-8912 sound emulation.
 - Complete CPC keyboard emulation mapped to PS/2 keyboard.
-- Loading of SNA (64K) and DSK file types.
+- Loading of SNA v1, v2 and v3 (64 and 128K) and DSK file types.
+- !00 slots for saving / loading snapshots.
 - Complete file navigation system with autoindexing, folder support and search functions.
 - OSD menu in two languages: English & Spanish.
 
