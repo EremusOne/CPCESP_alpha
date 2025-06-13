@@ -16,7 +16,7 @@ This emulator is part of the [ESPectrum project](https://github.com/EremusOne/ES
 - AY-3-8912 sound emulation.
 - Complete CPC keyboard emulation mapped to PS/2 keyboard.
 - Loading of SNA v1, v2 and v3 (64 and 128K) and DSK file types.
-- !00 slots for saving / loading snapshots.
+- 100 slots for saving / loading snapshots.
 - Complete file navigation system with autoindexing, folder support and search functions.
 - OSD menu in two languages: English & Spanish.
 
